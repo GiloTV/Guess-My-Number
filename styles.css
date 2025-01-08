@@ -121,3 +121,11 @@ h1 {
 .hidden {
   opacity: 0;
 }
+
+.disabled {
+  background-color: #333;
+}
+
+.disabled:hover {
+  background-color: #333;
+}
